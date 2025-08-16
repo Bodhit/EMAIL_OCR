@@ -1,1 +1,1 @@
-## Email OCR Automation, to remove manual effort of sending cold emails to recruiters.
+# Email OCR Automation, to remove manual effort of sending cold emails to recruiters.
